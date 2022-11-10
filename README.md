@@ -9,3 +9,4 @@ As a full stack software developer, I have enjoyed using JavaScript, Python, Rea
 When I'm not at my desk, I enjoy taking dance classes, camping, baking and exploring nature. I take pleasure in reading and I always find time to learn and grow as a person.
 
 ![coding](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="drawing" style="width:200px;"/>
