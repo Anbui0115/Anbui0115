@@ -8,6 +8,20 @@ As a full stack software developer, I have enjoyed using JavaScript, Python, Rea
 
 When I'm not at my desk, I enjoy taking dance classes, camping, baking and exploring nature. I take pleasure in reading and I always find time to learn and grow as a person.
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="drawing" style="width:500px; justify-content:center"/>
-![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+Technologies Used:
+Languages
+Python JavaScript HTML5 CSS3 Java Markdown
+
+Frameworks, Platforms, and Libraries
+    
+Jinja NPM NodeJS
+
+Hosting/SaaS & Others
+AWS Heroku Netlify Sequelize Docker Adobe
+
