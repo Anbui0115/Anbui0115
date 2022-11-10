@@ -38,6 +38,5 @@ When I'm not at my desk, I enjoy taking dance classes, camping, baking and explo
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anbui0115)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anbui0115&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbui0115&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
