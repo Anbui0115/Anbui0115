@@ -44,6 +44,6 @@ When I'm not at my desk, I enjoy taking dance classes, camping, baking and explo
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcard.Anbui0115/Anbui0115)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anbui0115?theme=light&font=Noto%20Serif%20Devanagari)
 
 ![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
