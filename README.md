@@ -3,11 +3,13 @@
 
 ### About me 🌱
 
-All my life I have been observant on how to make the world around me simpler or more productive. Software engineering gave me the vehicle to leverage my skills and contribute on a global scale. 
-As a full stack software developer, I have enjoyed using JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, Python, CSS, and HTML in my projects. 
+I'm a full-stack software developer with a passion for simplifying and enhancing the world through technology. My expertise spans JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML. Additionally, I have hands-on experience with leading cloud providers such as AWS, GCP, and Azure, and I'm proficient in orchestrating containerized applications with Kubernetes and infrastructure provisioning using Terraform.
 
-When I'm not at my desk, I enjoy taking dance classes, camping, baking and exploring nature. I take pleasure in reading and I always find time to learn and grow as a person.
+Recently, I wrapped up an exciting contract role where I had the opportunity to contribute my skills and expertise to a dynamic team. Now, I'm thrilled to dive back into the grind and embark on new projects.
 
+When I'm not immersed in code, you might find me grooving in a dance class, embracing the great outdoors while camping, or creating delightful pastries in the kitchen. Nature exploration is another one of my passions, and I'm always eager to dive into a good book to further my personal growth journey.
+
+Let's collaborate and build something incredible together!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/an-bui-0115/)
 
