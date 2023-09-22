@@ -3,7 +3,7 @@
 
 ### About me 🌱
 
-I'm a full-stack software developer with a passion for simplifying and enhancing the world through technology. My expertise spans JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML. Additionally, I have hands-on experience with leading cloud providers such as AWS, GCP, and Azure, and I'm proficient in orchestrating containerized applications with Kubernetes and infrastructure provisioning using Terraform.
+I'm a full-stack software developer with a passion for simplifying and enhancing the world through technology. My expertise spans JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML. Additionally, I'm proficient in orchestrating containerized applications with Kubernetes and infrastructure provisioning using Terraform.
 
 Recently, I wrapped up an exciting contract role as an Infrastructure Engineer where I had the opportunity to contribute my skills to a dynamic team and gain experience working with Cloud Providers such as AWS, GCP and Azure. Now, I'm thrilled to dive back into the grind and embark on new projects.
 
