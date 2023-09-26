@@ -40,7 +40,6 @@ Let's collaborate and build something incredible together!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
 [![Open Source Helpers](https://www.codetriage.com/nodejs/node/badges/users.svg)](https://www.codetriage.com/nodejs/node)
 [![Open Source Helpers](https://www.codetriage.com/reactjs/reactjs.org/badges/users.svg)](https://www.codetriage.com/reactjs/reactjs.org)
