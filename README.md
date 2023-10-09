@@ -40,8 +40,6 @@ Let's collaborate and build something incredible together!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
 
@@ -50,6 +48,6 @@ Let's collaborate and build something incredible together!
 [![Open Source Helpers](https://www.codetriage.com/python/cpython/badges/users.svg)](https://www.codetriage.com/python/cpython)
 [![Open Source Helpers](https://www.codetriage.com/facebook/react/badges/users.svg)](https://www.codetriage.com/facebook/react)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Anbui0115?theme=light&font=Noto%20Serif%20Devanagari)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anbui0115?theme=dark&font=Noto%20Serif%20Devanagari)
 
 ![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
