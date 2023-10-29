@@ -59,4 +59,3 @@ Let's collaborate and build something incredible together!
 ![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
 
 ![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
-![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
