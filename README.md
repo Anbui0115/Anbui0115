@@ -56,6 +56,5 @@ Let's collaborate and build something incredible together!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anbui0115?theme=dark&font=Noto%20Serif%20Devanagari)
 
-![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
 
 ![views](https://komarev.com/ghpvc/?username=anbui0115&label=PROFILE+VIEWS)
