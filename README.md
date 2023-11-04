@@ -42,8 +42,6 @@ Let's collaborate and build something incredible together!
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
@@ -53,7 +51,6 @@ Let's collaborate and build something incredible together!
 [![Open Source Helpers](https://www.codetriage.com/nodejs/node/badges/users.svg)](https://www.codetriage.com/nodejs/node)
 [![Open Source Helpers](https://www.codetriage.com/reactjs/reactjs.org/badges/users.svg)](https://www.codetriage.com/reactjs/reactjs.org)
 
-[![Open Source Helpers](https://www.codetriage.com/reactjs/reactjs.org/badges/users.svg)](https://www.codetriage.com/reactjs/reactjs.org)
 
 [![Open Source Helpers](https://www.codetriage.com/python/cpython/badges/users.svg)](https://www.codetriage.com/python/cpython)
 [![Open Source Helpers](https://www.codetriage.com/facebook/react/badges/users.svg)](https://www.codetriage.com/facebook/react)
