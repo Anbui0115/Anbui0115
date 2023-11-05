@@ -54,6 +54,7 @@ Let's collaborate and build something incredible together!
 
 [![Open Source Helpers](https://www.codetriage.com/python/cpython/badges/users.svg)](https://www.codetriage.com/python/cpython)
 [![Open Source Helpers](https://www.codetriage.com/facebook/react/badges/users.svg)](https://www.codetriage.com/facebook/react)
+[![Open Source Helpers](https://www.codetriage.com/facebook/react/badges/users.svg)](https://www.codetriage.com/facebook/react)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anbui0115?theme=dark&font=Noto%20Serif%20Devanagari)
 
