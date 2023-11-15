@@ -43,6 +43,8 @@ Let's collaborate and build something incredible together!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
+
 
 
 [![Open Source Helpers](https://www.codetriage.com/nodejs/node/badges/users.svg)](https://www.codetriage.com/nodejs/node)
