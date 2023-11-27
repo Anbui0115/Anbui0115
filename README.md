@@ -10,7 +10,6 @@ Recently, I wrapped up an exciting contract role as an Infrastructure Engineer w
 When I'm not immersed in code, you might find me grooving in a dance class, embracing the great outdoors while camping, or baking in the kitchen. Nature exploration is another one of my passions, and I'm always eager to dive into a good book to further my journey of personal growth.
 
 Let's collaborate and build something incredible together!
-Let's collaborate and build something incredible together!
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/an-bui-0115/)
