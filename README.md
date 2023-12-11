@@ -42,7 +42,7 @@ Let's collaborate and build something incredible together!
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
 
