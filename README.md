@@ -2,6 +2,7 @@
 
 
 ### About me 🌱
+about me
 
 I'm a Full-Stack Software Developer with a passion for simplifying and enhancing the world through technology. My expertise spans JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML. Additionally, I'm proficient in orchestrating containerized applications with Kubernetes and provisioning infrastructure with Terraform.
 
