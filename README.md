@@ -18,6 +18,7 @@ Let's collaborate and build something incredible together!
 
 
 ### Technologies Used:
+### Technologies Used:
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
