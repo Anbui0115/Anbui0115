@@ -4,9 +4,9 @@
 
 I'm a dedicated and proficient software engineer with a strong background in web development and cloud technologies. With a keen interest in creating efficient, user-friendly applications, I bring a blend of technical skill and creativity to my projects. My journey in software development started with a solid foundation in biochemistry, where I developed my analytical and problem-solving skills, which I now apply in the tech world.
 
-# 🔧 Technical Skills:
+#### 🔧 Technical Skills:
 
-# Languages & Frameworks: Proficient in JavaScript, Python, HTML, CSS, and SQL. Experienced in working with React.js, Redux, Express.js, Node.js, Flask, TypeScript, and Next.js.
+#### Languages & Frameworks: Proficient in JavaScript, Python, HTML, CSS, and SQL. Experienced in working with React.js, Redux, Express.js, Node.js, Flask, TypeScript, and Next.js.
 # Databases & ORMs: Skilled in PostgreSQL, Sequelize, SQLAlchemy, and SQLite.
 # Tools & Platforms: Hands-on experience with Docker, Regex, Heroku, Git, Kubernetes, Terraform, AWS, GCP, and Azure.
 # Key Strengths: Expertise in cloud resource management, optimization of release pipelines, codebase maintenance, and creating user-centric designs.
