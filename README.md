@@ -26,9 +26,11 @@ Associate of Arts in Chemistry, San Jose City College (2018 - 2020)
 
 #### 🚀 Projects:
 
-##### OURBUCKS: An innovative web application for online drink ordering and customization.
-##### EATSY: A creative Etsy clone for buying and selling essential products.
-##### ANBNB: A unique Airbnb-inspired app for lodging reservations and hosting services.
+OURBUCKS: An innovative web application for online drink ordering and customization.
+
+EATSY: A creative Etsy clone for buying and selling essential products.
+
+ANBNB: A unique Airbnb-inspired app for lodging reservations and hosting services.
 
 #### 🔍 I'm Open to Opportunities:
 
@@ -69,7 +71,6 @@ Feel free to reach out for collaborations or just a friendly chat about technolo
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
 
