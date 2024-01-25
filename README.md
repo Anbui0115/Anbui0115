@@ -6,9 +6,11 @@ I'm a dedicated and proficient software engineer with a strong background in web
 
 #### 🔧 Technical Skills:
 
-##### Databases & ORMs: Skilled in PostgreSQL, Sequelize, SQLAlchemy, and SQLite.
-##### Tools & Platforms: Hands-on experience with Docker, Regex, Heroku, Git, Kubernetes, Terraform, AWS, GCP, and Azure.
-##### Key Strengths: Expertise in cloud resource management, optimization of release pipelines, codebase maintenance, and creating user-centric designs.
+Databases & ORMs: Skilled in PostgreSQL, Sequelize, SQLAlchemy, and SQLite.
+
+Tools & Platforms: Hands-on experience with Docker, Regex, Heroku, Git, Kubernetes, Terraform, AWS, GCP, and Azure.
+
+Key Strengths: Expertise in cloud resource management, optimization of release pipelines, codebase maintenance, and creating user-centric designs.
 
 #### 💼 Professional Experience:
 
@@ -67,6 +69,7 @@ Feel free to reach out for collaborations or just a friendly chat about technolo
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anbui0115&theme=dark)](https://git.io/streak-stats)
 
 
