@@ -13,6 +13,7 @@ Key Strengths: Expertise in cloud resource management, optimization of release p
 #### 💼 Professional Experience:
 
 Software Engineer at Arize AI (2023 - Present): Focused on cloud resource management across multiple platforms, optimizing release pipelines, and enhancing platform health and performance.
+
 Sales Support Representative - Inside Sales at Supermicro (2021 - 2022): Improved sales processes and customer satisfaction through efficient order processing and technical support.
 
 #### 📚 Educational Background:
