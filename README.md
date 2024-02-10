@@ -1,4 +1,4 @@
-### Hi there, I'm An Bui - a Passionate Software Engineer!wwww
+### Hi there, I'm An Bui - a Passionate Software Engineer!
 
 ### About me 🌱
 
