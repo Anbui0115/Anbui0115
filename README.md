@@ -1,5 +1,5 @@
 ### Hi there, I'm An Bui - a Passionate Software Engineer!
-aa
+
 ### About me 🌱
 
 I'm a dedicated and proficient software engineer with a strong background in web development and cloud technologies. With a keen interest in creating efficient, user-friendly applications, I bring a blend of technical skill and creativity to my projects. My journey in software development started with a solid foundation in biochemistry, where I developed my analytical and problem-solving skills, which I now apply in the tech world.
