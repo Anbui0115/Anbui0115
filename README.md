@@ -7,25 +7,33 @@ I'm a dedicated and proficient software engineer with a strong background in web
 #### 🔧 Technical Skills:
 
 Databases & ORMs: Skilled in PostgreSQL, Sequelize, SQLAlchemy, and SQLite.
+
 Tools & Platforms: Hands-on experience with Docker, Regex, Heroku, Git, Kubernetes, Terraform, AWS, GCP, and Azure.
+
 Key Strengths: Expertise in cloud resource management, optimization of release pipelines, codebase maintenance, and creating user-centric designs.
 
 #### 💼 Professional Experience:
 
 Software Engineer at Arize AI (2023 - Present): Focused on cloud resource management across multiple platforms, optimizing release pipelines, and enhancing platform health and performance.
+
 Sales Support Representative - Inside Sales at Supermicro (2021 - 2022): Improved sales processes and customer satisfaction through efficient order processing and technical support.
 
 #### 📚 Educational Background:
 
 Web Development, App Academy (2022 - 2023)
+
 Coursework in Biochemistry, San Jose State University (2020 - 2021)
+
 Associate of Arts in Chemistry, San Jose City College (2018 - 2020)
+
 Ho Chi Minh City University of Technology (HCMUT) Bachelor of Science in Computer Science (2013 - 2017)
 
 #### 🚀 Projects:
 
 OURBUCKS: An innovative web application for online drink ordering and customization.
+
 EATSY: A creative Etsy clone for buying and selling essential products.
+
 ANBNB: A unique Airbnb-inspired app for lodging reservations and hosting services.
 
 #### 🔍 I'm Open to Opportunities:
