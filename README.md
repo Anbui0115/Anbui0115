@@ -2,7 +2,7 @@
 
 ### About me 🌱
 
-I'm a dedicated and proficient software engineer with a strong background in web development and cloud technologies. With a keen interest in creating efficient, user-friendly applications, I bring a blend of technical skill and creativity to my projects. My journey in software development started with a solid foundation in biochemistry, where I developed my analytical and problem-solving skills, which I now apply in the tech world.
+Full-stack software engineer who loves building products that are fast, reliable, and actually enjoyable to use. Experienced across frontend, backend, and cloud—shipping real-time analytics dashboards, scalable microservices, and polished UI/UX. Always focused on impact: solving real user problems, mentoring teammates, and delivering customer value.
 
 #### 🔧 Technical Skills:
 
@@ -14,37 +14,13 @@ Key Strengths: Expertise in cloud resource management, optimization of release p
 
 #### 💼 Professional Experience:
 
-Software Engineer at Arize AI (2023 - Present): Focused on cloud resource management across multiple platforms, optimizing release pipelines, and enhancing platform health and performance.
+Software engineer with a strong track record of delivering scalable applications, resilient cloud infrastructure, and user-focused solutions. Currently at Kloudfuse, I design and ship high-performance React/TypeScript applications and observability tools that accelerate customer troubleshooting and decision-making. Previously at Arize AI, I managed cloud platforms across AWS, GCP, and Azure, optimized CI/CD pipelines, and improved reliability for both cloud and on-premises environments.
 
-Sales Support Representative - Inside Sales at Supermicro (2021 - 2022): Improved sales processes and customer satisfaction through efficient order processing and technical support.
+I thrive in the lean startup mindset — building fast, testing fast, learning from feedback, and repeating until we get it right. Comfortable wearing multiple hats, I move seamlessly between frontend, backend, DevOps, and customer-facing work, always with a focus on speed, quality, and impact. Recognized for translating complex business needs into practical engineering solutions, strengthening teams through mentorship and collaboration, and consistently driving projects from concept to production with measurable results.
 
-#### 📚 Educational Background:
 
-Web Development, App Academy (2022 - 2023)
-
-Coursework in Biochemistry, San Jose State University (2020 - 2021)
-
-Associate of Arts in Chemistry, San Jose City College (2018 - 2020)
-
-Ho Chi Minh City University of Technology (HCMUT) Bachelor of Science in Computer Science (2013 - 2017)
-
-#### 🚀 Projects:
-
-OURBUCKS: An innovative web application for online drink ordering and customization.
-
-EATSY: A creative Etsy clone for buying and selling essential products.
-
-ANBNB: A unique Airbnb-inspired app for lodging reservations and hosting services.
-
-#### 🔍 I'm Open to Opportunities:
-
-I am currently open to new opportunities where I can contribute, learn, and grow. Whether it's collaborating on open-source projects or a role in a dynamic team, I'm eager to bring my skills and passion to new challenges.
-
-Feel free to reach out for collaborations or just a friendly chat about technology and software development. You can connect with me on LinkedIn, check out my Portfolio, or view my projects here on GitHub.
 
 ### Building the Future, One Line of Code at a Time!
-
-
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/an-bui-0115/)
 
